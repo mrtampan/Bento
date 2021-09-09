@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Achmad Rivaldi',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -42,13 +42,13 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/mrtampan',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com',
     },
     {
       id: '3',
@@ -110,12 +110,8 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com',
       },
       {
         name: 'Telegram',
